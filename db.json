@@ -1,5 +1,4 @@
-{
-  "pytania": [
+[
     {
       "tresc": "Jaka jest najnowsza stabilna wersja python?",
       "odpowiedzi": {
@@ -40,5 +39,4 @@
       },
       "poprawna": "B"
     }
-  ]
-}
+]
